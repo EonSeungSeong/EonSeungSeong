@@ -24,8 +24,7 @@ Skills: Keras / Pytorch/ Tensorflow / Flask / SQLite / R / PySpark
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djstmd99)<img src="http://mazandi.herokuapp.com/api?handle=djstmd99&theme=warm"/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EonSeungSeong&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EonSeungSeong&layout=compact&theme=dracula)](https://github.com/EonSeungSeong)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EonSeungSeong&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EonSeungSeong&layout=compact&theme=dracula)](https://github.com/EonSeungSeong)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EonSeungSeong)  
 
