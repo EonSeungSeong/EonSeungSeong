@@ -9,11 +9,11 @@
 
 2022.03 ~ 디지털 정보처리 연구실 학부연구생 - 딥러닝을 이용한 영상복원 & 잡음제거 연구
 
-2022.10  ‘의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거’ -한국데이터정보과학지
+2022.10  ‘의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거’ 제 1저자 -한국데이터정보과학지
 
-2022.10 ~ 경상국립대학교 식품영양학과 딥러닝 연구 보조활동
+2022.10 ~ 2023.03 경상국립대학교 식품영양학과 딥러닝 연구 보조활동
 
-2023.03 'Deformable CAE 모형을 이용한 효율적인 CT 영상 잡음제거' -한국컴퓨터정보학
+2023.03 'Deformable CAE 모형을 이용한 효율적인 CT 영상 잡음제거' 제 1저자 -한국컴퓨터정보학회
 <hr>
 수상이력
 
@@ -25,7 +25,7 @@
 <hr>
 Skills
 
-Main: Keras & Tensorflow / Pytorch 
+Main: Tensorflow &Keras / Pytorch 
 
 Sub: Flask / SQLite / R / PySpark
 <h3 align="left">Languages and Tools:</h3>
