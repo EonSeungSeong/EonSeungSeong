@@ -115,12 +115,6 @@
 <h3>📨Social</h3>
 <a href="mailto:tjddjsmtd5398@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tjddjsmtd5398@gmail.com"/></a>
 <a href="https://velog.io/@es_seong"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=v&logoColor=white&link=https://velog.io/@es_seong"/></a>
-<hr>
-
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djstmd99)<img src="http://mazandi.herokuapp.com/api?handle=djstmd99&theme=warm"/>
-
-![Seong-eon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EonSeungSeong&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EonSeungSeong&layout=compact)
 
 
 <hr>
