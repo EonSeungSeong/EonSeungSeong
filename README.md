@@ -101,9 +101,15 @@
 <hr>
 <h3>🌐Stacks</h3>
 
-Main: Python / Pytorch / Tensorflow 
-
-Sub: Flask / SQL
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <hr>
 <h3>📨Social</h3>
@@ -113,7 +119,9 @@ Sub: Flask / SQL
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djstmd99)<img src="http://mazandi.herokuapp.com/api?handle=djstmd99&theme=warm"/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EonSeungSeong&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EonSeungSeong&layout=compact&theme=dracula)](https://github.com/EonSeungSeong)
+![Seong-eon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EonSeungSeong&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EonSeungSeong&layout=compact)
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEonSeungSeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
