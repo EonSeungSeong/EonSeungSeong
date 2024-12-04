@@ -1,7 +1,7 @@
-### Hi there 👋, My name is Eon-Seung Seong
-#### 안녕하세요, 성언승 입니다!
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=EonSeung's%20GitHub&fontSize=90)
+
 <hr>
-주요활동
+Career & Papers
 
 2017.03 ~ 경상국립대학교 정보통계학과 주전공
 
@@ -29,11 +29,6 @@ Main: Python / Pytorch / Tensorflow
 
 Sub: Flask / SQL
 
-
-
-- 🌱 I’m currently learning AI & BigData 
-- 📫 How to reach me: tjddjstmd@naver.com 
-- 😄 MBTI : ISFJ
 <hr>
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djstmd99)<img src="http://mazandi.herokuapp.com/api?handle=djstmd99&theme=warm"/>
