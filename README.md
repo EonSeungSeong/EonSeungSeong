@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=EonSeung's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=EonSeungSeong&fontSize=90)
 <hr>
 <h3>🧐Interest</h3>
 <ul>
