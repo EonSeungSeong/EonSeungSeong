@@ -107,7 +107,7 @@ Sub: Flask / SQL
 
 <hr>
 <h3>📨Social</h3>
-<a href="mailto:hu612213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tjddjsmtd5398@gmail.com"/></a>
+<a href="mailto:tjddjsmtd5398@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tjddjsmtd5398@gmail.com"/></a>
 <a href="https://velog.io/@es_seong"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=v&logoColor=white&link=https://velog.io/@es_seong"/></a>
 <a href="https://github.com/EonSeungSeong](https://github.com/EonSeungSeong"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
 <hr>
