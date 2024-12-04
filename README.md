@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td style="padding:10px;">2024.03~</td>
-      <td style="padding:10px;">석사</td>
+      <td style="padding:10px;">석사과정</td>
       <td style="padding:10px;">부산대학교 정보융합공학과 AI전공 석사과정</td>
     </tr>
   </tbody>
