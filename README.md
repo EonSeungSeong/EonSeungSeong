@@ -7,7 +7,7 @@
   <li>Skin Disease Classification</li>
   <li>Object Detection</li>
   <li>Medical Vision Task Using AI</li>
-  <li>Make web-based AI services</li>
+  <li>Make Web-based AI services (Flask)</li>
 </ul>
 
 <hr>
