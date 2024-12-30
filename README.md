@@ -3,6 +3,7 @@
 <h3>🧐Interest</h3>
 <ul>
   <li>Learned Image Compression (LIC)</li>
+  <li>Learend/Neural Video Compression</li>
   <li>Image Denoising</li>
   <li>Skin Disease Classification</li>
   <li>Object Detection</li>
