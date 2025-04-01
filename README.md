@@ -117,7 +117,3 @@
 <a href="mailto:tjddjsmtd5398@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tjddjsmtd5398@gmail.com"/></a>
 <a href="https://velog.io/@es_seong"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=v&logoColor=white&link=https://velog.io/@es_seong"/></a>
 
-
-<hr>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEonSeungSeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
