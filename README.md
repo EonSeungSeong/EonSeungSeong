@@ -53,21 +53,31 @@
       <th style="padding:10px;">Date</th>
       <th style="padding:10px;">Journal</th>
       <th style="padding:10px;">Title</th>
+      <th style="padding:10px;">URL</th>
     </tr>
     <tr>
       <td style="padding:10px;">2022.10</td>
       <td style="padding:10px;">한국데이터정보과학회</td>
       <td style="padding:10px;">Medical image denoising using convolutional dual-decoder autoencoder</td>
+      <td></td>
     </tr>
     <tr>
       <td style="padding:10px;">2023.03</td>
       <td style="padding:10px;">한국컴퓨터정보학회</td>
       <td style="padding:10px;">Efficient CT Image Denoising Using Deformable Convolutional AutoEncoder Model</td>
+      <td></td>
     </tr>
     <tr>
       <td style="padding:10px;">2023.07</td>
       <td style="padding:10px;">한국데이터정보과학회</td>
       <td style="padding:10px;">U-Net based GAN with deformable convolution for CT image denoising</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="padding:10px;">2025.03</td>
+      <td style="padding:10px;">Under Review</td>
+      <td style="padding:10px;">Learned Image Compression and Restoration for Digital Pathology</td>
+      <td><a href="https://arxiv.org/abs/2503.23862" target="_blank">https://arxiv.org/abs/2503.23862</a></td>
     </tr>
   </tbody>
 </table>
