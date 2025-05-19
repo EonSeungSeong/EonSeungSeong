@@ -106,6 +106,11 @@
       <td style="padding:10px;">2022 데이터 크리에이터 캠프(NIA) 대학부</td>
       <td style="padding:10px;">최우수상 (한국지능정보사회진흥원 원장상)</td>
     </tr>
+    <tr>
+      <td style="padding:10px;">2025.05</td>
+      <td style="padding:10px;">2025 대한의용생체공학회 춘계학술대회 포스터부문</td>
+      <td style="padding:10px;">최우수상</td>
+    </tr>
   </tbody>
 </table>
 
