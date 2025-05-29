@@ -42,6 +42,16 @@
       <td style="padding:10px;">석사과정</td>
       <td style="padding:10px;">부산대학교 정보융합공학과 AI전공 석사과정</td>
     </tr>
+    <tr>
+      <td style="padding:10px;">2024.06~2024.07</td>
+      <td style="padding:10px;">조교</td>
+      <td style="padding:10px;">LG전자 DIC 팀 프로젝트 조교</td>
+    </tr>
+    <tr>
+      <td style="padding:10px;">2025.04~2025.05</td>
+      <td style="padding:10px;">실습 조교</td>
+      <td style="padding:10px;">LG전자 DIC 실습 조교</td>
+    </tr>
   </tbody>
 </table>
 
