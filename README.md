@@ -89,6 +89,12 @@
       <td style="padding:10px;">Learned Image Compression and Restoration for Digital Pathology</td>
       <td><a href="https://arxiv.org/abs/2503.23862" target="_blank">https://arxiv.org/abs/2503.23862</a></td>
     </tr>
+    <tr>
+      <td style="padding:10px;">2025.09</td>
+      <td style="padding:10px;">Under Review</td>
+      <td style="padding:10px;">Real-time Laryngeal Structure Detection for Assisting Endotracheal Intubation Procedure Using Deep-Learning.</td>
+      <td><</td>
+    </tr>    
   </tbody>
 </table>
 
