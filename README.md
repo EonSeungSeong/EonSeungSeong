@@ -93,7 +93,7 @@
       <td style="padding:10px;">2025.09</td>
       <td style="padding:10px;">Under Review</td>
       <td style="padding:10px;">Real-time Laryngeal Structure Detection for Assisting Endotracheal Intubation Procedure Using Deep-Learning.</td>
-      <td><</td>
+      <td></td>
     </tr>    
   </tbody>
 </table>
