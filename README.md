@@ -127,6 +127,11 @@
       <td style="padding:10px;">2025 대한의용생체공학회 춘계학술대회 포스터부문</td>
       <td style="padding:10px;">최우수상</td>
     </tr>
+    <tr>
+      <td style="padding:10px;">2025.11</td>
+      <td style="padding:10px;">2025 AI대학원 학생주도 연구 프로젝트</td>
+      <td style="padding:10px;">대상</td>
+    </tr>    
   </tbody>
 </table>
 
