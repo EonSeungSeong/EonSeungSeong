@@ -38,7 +38,7 @@
       <td style="padding:10px;">공공기관 포털 유지보수 용역</td>
     </tr>
     <tr>
-      <td style="padding:10px;">2024.03~</td>
+      <td style="padding:10px;">2024.03~2026.02</td>
       <td style="padding:10px;">석사과정</td>
       <td style="padding:10px;">부산대학교 정보융합공학과 AI전공 석사과정</td>
     </tr>
